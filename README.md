@@ -37,3 +37,5 @@ This project provides hands-on experience in designing and developing an embedde
 | 14     | USB Cable                   |     1 | ESP32 programming/power            |
 | 15     | Buzzer / optional           |     1 | Warning/status indication          |
 | 16     | LEDs                        |   2–4 | Status indication                  |
+
+
