@@ -49,3 +49,10 @@ HTML web interface
 🌐 Control & monitor your car via any web browser — no extra apps needed
 ⚙️ Simple, lightweight design — no pan-tilt, just raw power and smooth streaming
 🔋 Battery-powered for full mobility
+
+#  🚀 How to Run
+Flash the ESP32-CAM with the provided code.
+Configure your Wi-Fi SSID & password inside the code.
+Power up the robot car and connect it to your network.
+Open your favorite browser and enter the ESP32’s IP address.
+Enjoy live streaming & remote control of your surveillance car! 🕹️
