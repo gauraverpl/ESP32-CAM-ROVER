@@ -39,3 +39,13 @@ This project provides hands-on experience in designing and developing an embedde
 | 16     | LEDs                        |   2–4 | Status indication                  |
 
 
+# 💻 Software Stack
+Arduino IDE firmware
+WebSocket / HTTP server running on ESP32 for streaming & control
+HTML web interface
+
+# ✨ Features
+🎥 Live video streaming straight from the ESP32-CAM camera
+🌐 Control & monitor your car via any web browser — no extra apps needed
+⚙️ Simple, lightweight design — no pan-tilt, just raw power and smooth streaming
+🔋 Battery-powered for full mobility
